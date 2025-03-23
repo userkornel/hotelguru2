@@ -157,3 +157,20 @@ C:\Hotelguru Rendszerfejlesztes\hotelguru\HotelGuru.DataContext\obj\Debug\net8.0
 C:\Hotelguru Rendszerfejlesztes\hotelguru\HotelGuru.DataContext\obj\Debug\net8.0\HotelGuru.DataContext.pdb
 C:\Hotelguru Rendszerfejlesztes\hotelguru\HotelGuru.DataContext\obj\Debug\net8.0\HotelGuru.DataContext.genruntimeconfig.cache
 C:\Hotelguru Rendszerfejlesztes\hotelguru\HotelGuru.DataContext\obj\Debug\net8.0\ref\HotelGuru.DataContext.dll
+C:\Users\Dávid\Documents\GitHub\hotelguru2\HotelGuru.DataContext\obj\Debug\net8.0\HotelGuru.DataContext.csproj.AssemblyReference.cache
+C:\Users\Dávid\Documents\GitHub\hotelguru2\HotelGuru.DataContext\obj\Debug\net8.0\HotelGuru.DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dávid\Documents\GitHub\hotelguru2\HotelGuru.DataContext\obj\Debug\net8.0\HotelGuru.DataContext.AssemblyInfoInputs.cache
+C:\Users\Dávid\Documents\GitHub\hotelguru2\HotelGuru.DataContext\obj\Debug\net8.0\HotelGuru.DataContext.AssemblyInfo.cs
+C:\Users\Dávid\Documents\GitHub\hotelguru2\HotelGuru.DataContext\obj\Debug\net8.0\HotelGuru.DataContext.csproj.CoreCompileInputs.cache
+C:\Users\Dávid\Documents\GitHub\hotelguru2\HotelGuru.DataContext\obj\Debug\net8.0\HotelGuru.DataContext.sourcelink.json
+C:\Users\Dávid\Documents\GitHub\hotelguru2\HotelGuru.DataContext\obj\Debug\net8.0\HotelGuru.DataContext.dll
+C:\Users\Dávid\Documents\GitHub\hotelguru2\HotelGuru.DataContext\obj\Debug\net8.0\refint\HotelGuru.DataContext.dll
+C:\Users\Dávid\Documents\GitHub\hotelguru2\HotelGuru.DataContext\obj\Debug\net8.0\HotelGuru.DataContext.pdb
+C:\Users\Dávid\Documents\GitHub\hotelguru2\HotelGuru.DataContext\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Dávid\Documents\GitHub\hotelguru2\HotelGuru.DataContext\bin\Debug\net8.0\appsettings.json
+C:\Users\Dávid\Documents\GitHub\hotelguru2\HotelGuru.DataContext\bin\Debug\net8.0\HotelGuru.DataContext.deps.json
+C:\Users\Dávid\Documents\GitHub\hotelguru2\HotelGuru.DataContext\bin\Debug\net8.0\HotelGuru.DataContext.runtimeconfig.json
+C:\Users\Dávid\Documents\GitHub\hotelguru2\HotelGuru.DataContext\bin\Debug\net8.0\HotelGuru.DataContext.dll
+C:\Users\Dávid\Documents\GitHub\hotelguru2\HotelGuru.DataContext\bin\Debug\net8.0\HotelGuru.DataContext.pdb
+C:\Users\Dávid\Documents\GitHub\hotelguru2\HotelGuru.DataContext\obj\Debug\net8.0\HotelGuru.DataContext.genruntimeconfig.cache
+C:\Users\Dávid\Documents\GitHub\hotelguru2\HotelGuru.DataContext\obj\Debug\net8.0\ref\HotelGuru.DataContext.dll

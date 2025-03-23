@@ -157,3 +157,23 @@ C:\Hotelguru Rendszerfejlesztes\hotelguru\HotelGuru.Services\obj\Debug\net8.0\re
 C:\Hotelguru Rendszerfejlesztes\hotelguru\HotelGuru.Services\obj\Debug\net8.0\HotelGuru.Services.pdb
 C:\Hotelguru Rendszerfejlesztes\hotelguru\HotelGuru.Services\obj\Debug\net8.0\HotelGuru.Services.genruntimeconfig.cache
 C:\Hotelguru Rendszerfejlesztes\hotelguru\HotelGuru.Services\obj\Debug\net8.0\ref\HotelGuru.Services.dll
+C:\Users\Dávid\Documents\GitHub\hotelguru2\HotelGuru.Services\obj\Debug\net8.0\HotelGuru.Services.csproj.AssemblyReference.cache
+C:\Users\Dávid\Documents\GitHub\hotelguru2\HotelGuru.Services\obj\Debug\net8.0\HotelGuru.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dávid\Documents\GitHub\hotelguru2\HotelGuru.Services\obj\Debug\net8.0\HotelGuru.Services.AssemblyInfoInputs.cache
+C:\Users\Dávid\Documents\GitHub\hotelguru2\HotelGuru.Services\obj\Debug\net8.0\HotelGuru.Services.AssemblyInfo.cs
+C:\Users\Dávid\Documents\GitHub\hotelguru2\HotelGuru.Services\obj\Debug\net8.0\HotelGuru.Services.csproj.CoreCompileInputs.cache
+C:\Users\Dávid\Documents\GitHub\hotelguru2\HotelGuru.Services\obj\Debug\net8.0\HotelGuru.Services.sourcelink.json
+C:\Users\Dávid\Documents\GitHub\hotelguru2\HotelGuru.Services\obj\Debug\net8.0\HotelGuru.Services.dll
+C:\Users\Dávid\Documents\GitHub\hotelguru2\HotelGuru.Services\obj\Debug\net8.0\refint\HotelGuru.Services.dll
+C:\Users\Dávid\Documents\GitHub\hotelguru2\HotelGuru.Services\obj\Debug\net8.0\HotelGuru.Services.pdb
+C:\Users\Dávid\Documents\GitHub\hotelguru2\HotelGuru.Services\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Dávid\Documents\GitHub\hotelguru2\HotelGuru.Services\bin\Debug\net8.0\appsettings.json
+C:\Users\Dávid\Documents\GitHub\hotelguru2\HotelGuru.Services\bin\Debug\net8.0\HotelGuru.Services.deps.json
+C:\Users\Dávid\Documents\GitHub\hotelguru2\HotelGuru.Services\bin\Debug\net8.0\HotelGuru.Services.runtimeconfig.json
+C:\Users\Dávid\Documents\GitHub\hotelguru2\HotelGuru.Services\bin\Debug\net8.0\HotelGuru.Services.dll
+C:\Users\Dávid\Documents\GitHub\hotelguru2\HotelGuru.Services\bin\Debug\net8.0\HotelGuru.Services.pdb
+C:\Users\Dávid\Documents\GitHub\hotelguru2\HotelGuru.Services\bin\Debug\net8.0\HotelGuru.DataContext.dll
+C:\Users\Dávid\Documents\GitHub\hotelguru2\HotelGuru.Services\bin\Debug\net8.0\HotelGuru.DataContext.pdb
+C:\Users\Dávid\Documents\GitHub\hotelguru2\HotelGuru.Services\obj\Debug\net8.0\HotelGur.7C47C761.Up2Date
+C:\Users\Dávid\Documents\GitHub\hotelguru2\HotelGuru.Services\obj\Debug\net8.0\HotelGuru.Services.genruntimeconfig.cache
+C:\Users\Dávid\Documents\GitHub\hotelguru2\HotelGuru.Services\obj\Debug\net8.0\ref\HotelGuru.Services.dll
