@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dávid\\Documents\\hotelguru2\\HotelGuru.Services\\HotelGuru.Services.csproj": {}
+    "C:\\Hotelguru Rendszerfejlesztes\\hotelguru\\HotelGuru.Services\\HotelGuru.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dávid\\Documents\\hotelguru2\\HotelGuru.DataContext\\HotelGuru.DataContext.csproj": {
+    "C:\\Hotelguru Rendszerfejlesztes\\hotelguru\\HotelGuru.DataContext\\HotelGuru.DataContext.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dávid\\Documents\\hotelguru2\\HotelGuru.DataContext\\HotelGuru.DataContext.csproj",
+        "projectUniqueName": "C:\\Hotelguru Rendszerfejlesztes\\hotelguru\\HotelGuru.DataContext\\HotelGuru.DataContext.csproj",
         "projectName": "HotelGuru.DataContext",
-        "projectPath": "C:\\Users\\Dávid\\Documents\\hotelguru2\\HotelGuru.DataContext\\HotelGuru.DataContext.csproj",
-        "packagesPath": "C:\\Users\\Dávid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dávid\\Documents\\hotelguru2\\HotelGuru.DataContext\\obj\\",
+        "projectPath": "C:\\Hotelguru Rendszerfejlesztes\\hotelguru\\HotelGuru.DataContext\\HotelGuru.DataContext.csproj",
+        "packagesPath": "C:\\Users\\Elekes Kornél\\.nuget\\packages\\",
+        "outputPath": "C:\\Hotelguru Rendszerfejlesztes\\hotelguru\\HotelGuru.DataContext\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Dávid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Elekes Kornél\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -43,8 +43,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -95,24 +94,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Dávid\\Documents\\hotelguru2\\HotelGuru.Services\\HotelGuru.Services.csproj": {
+    "C:\\Hotelguru Rendszerfejlesztes\\hotelguru\\HotelGuru.Services\\HotelGuru.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dávid\\Documents\\hotelguru2\\HotelGuru.Services\\HotelGuru.Services.csproj",
+        "projectUniqueName": "C:\\Hotelguru Rendszerfejlesztes\\hotelguru\\HotelGuru.Services\\HotelGuru.Services.csproj",
         "projectName": "HotelGuru.Services",
-        "projectPath": "C:\\Users\\Dávid\\Documents\\hotelguru2\\HotelGuru.Services\\HotelGuru.Services.csproj",
-        "packagesPath": "C:\\Users\\Dávid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dávid\\Documents\\hotelguru2\\HotelGuru.Services\\obj\\",
+        "projectPath": "C:\\Hotelguru Rendszerfejlesztes\\hotelguru\\HotelGuru.Services\\HotelGuru.Services.csproj",
+        "packagesPath": "C:\\Users\\Elekes Kornél\\.nuget\\packages\\",
+        "outputPath": "C:\\Hotelguru Rendszerfejlesztes\\hotelguru\\HotelGuru.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Dávid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Elekes Kornél\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -127,8 +126,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Dávid\\Documents\\hotelguru2\\HotelGuru.DataContext\\HotelGuru.DataContext.csproj": {
-                "projectPath": "C:\\Users\\Dávid\\Documents\\hotelguru2\\HotelGuru.DataContext\\HotelGuru.DataContext.csproj"
+              "C:\\Hotelguru Rendszerfejlesztes\\hotelguru\\HotelGuru.DataContext\\HotelGuru.DataContext.csproj": {
+                "projectPath": "C:\\Hotelguru Rendszerfejlesztes\\hotelguru\\HotelGuru.DataContext\\HotelGuru.DataContext.csproj"
               }
             }
           }
@@ -142,8 +141,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -198,7 +196,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
