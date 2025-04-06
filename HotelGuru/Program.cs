@@ -8,11 +8,13 @@ using System;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
+builder.Services.AddSwaggerGen(c =>
+{
+    c.SwaggerDoc("v1", new OpenApiInfo { Title = "HotelGuru API", Version = "v1" });
+});
 
 builder.Services.AddDbContext<AppDbContext>(options =>
 {
@@ -20,14 +22,12 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 });
 
 builder.Services.AddScoped<IHotelServices, HotelServices>();
-
-// Swagger configuration
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen(c =>
-{
-    c.SwaggerDoc("v1", new OpenApiInfo { Title = "HotelGuru API", Version = "v1" });
-});
-
+builder.Services.AddScoped<IFoglalasService, FoglalasService>();
+builder.Services.AddScoped<ISzobaService, SzobaService>();
+builder.Services.AddScoped<IVendegService, VendegService>();
+builder.Services.AddScoped<IRecepciosService, RecepciosService>();
+builder.Services.AddScoped<IPluszSzolgaltatasService, PluszSzolgaltatasService>();
+builder.Services.AddScoped<IAdminisztratorService, AdminisztratorService>();
 
 builder.Services.AddAuthentication(NegotiateDefaults.AuthenticationScheme)
    .AddNegotiate();
