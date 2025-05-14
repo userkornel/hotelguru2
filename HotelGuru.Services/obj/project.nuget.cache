@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x+FiBE0rMFE=",
+  "dgSpecHash": "vfgG8XWMy3k=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dávid\\Documents\\hotelguru2\\HotelGuru.Services\\HotelGuru.Services.csproj",
+  "projectFilePath": "C:\\Users\\Dávid\\Documents\\Hotelguru2.1\\hotelguru2\\HotelGuru.Services\\HotelGuru.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dávid\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Dávid\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

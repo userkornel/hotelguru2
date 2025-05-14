@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dávid\\Documents\\hotelguru2\\HotelGuru.DataContext\\HotelGuru.DataContext.csproj": {}
+    "C:\\Users\\Dávid\\Documents\\Hotelguru2.1\\hotelguru2\\HotelGuru.DataContext\\HotelGuru.DataContext.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dávid\\Documents\\hotelguru2\\HotelGuru.DataContext\\HotelGuru.DataContext.csproj": {
+    "C:\\Users\\Dávid\\Documents\\Hotelguru2.1\\hotelguru2\\HotelGuru.DataContext\\HotelGuru.DataContext.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dávid\\Documents\\hotelguru2\\HotelGuru.DataContext\\HotelGuru.DataContext.csproj",
+        "projectUniqueName": "C:\\Users\\Dávid\\Documents\\Hotelguru2.1\\hotelguru2\\HotelGuru.DataContext\\HotelGuru.DataContext.csproj",
         "projectName": "HotelGuru.DataContext",
-        "projectPath": "C:\\Users\\Dávid\\Documents\\hotelguru2\\HotelGuru.DataContext\\HotelGuru.DataContext.csproj",
+        "projectPath": "C:\\Users\\Dávid\\Documents\\Hotelguru2.1\\hotelguru2\\HotelGuru.DataContext\\HotelGuru.DataContext.csproj",
         "packagesPath": "C:\\Users\\Dávid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dávid\\Documents\\hotelguru2\\HotelGuru.DataContext\\obj\\",
+        "outputPath": "C:\\Users\\Dávid\\Documents\\Hotelguru2.1\\hotelguru2\\HotelGuru.DataContext\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
