@@ -776,3 +776,5 @@ C:\Hotelguru Rendszerfejlesztes\hotelguru\HotelGuru\bin\Debug\net8.0\HotelGuru.D
 C:\Hotelguru Rendszerfejlesztes\hotelguru\HotelGuru\bin\Debug\net8.0\HotelGuru.Services.dll
 C:\Hotelguru Rendszerfejlesztes\hotelguru\HotelGuru\bin\Debug\net8.0\HotelGuru.DataContext.pdb
 C:\Hotelguru Rendszerfejlesztes\hotelguru\HotelGuru\bin\Debug\net8.0\HotelGuru.Services.pdb
+C:\Users\Dávid\Documents\hotelguru2\HotelGuru\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Dávid\Documents\hotelguru2\HotelGuru\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
