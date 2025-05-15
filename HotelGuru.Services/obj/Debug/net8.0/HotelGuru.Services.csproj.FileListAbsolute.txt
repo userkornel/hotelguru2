@@ -58,3 +58,23 @@ C:\Users\Dávid\Documents\hotelguru2\HotelGuru.Services\obj\Debug\net8.0\HotelGu
 C:\Users\Dávid\Documents\hotelguru2\HotelGuru.Services\obj\Debug\net8.0\ref\HotelGuru.Services.dll
 C:\Hotelguru Rendszerfejlesztes\hotelguru\HotelGuru.Services\bin\Debug\net8.0\HotelGuru.DataContext.dll
 C:\Hotelguru Rendszerfejlesztes\hotelguru\HotelGuru.Services\bin\Debug\net8.0\HotelGuru.DataContext.pdb
+C:\Hotelguru Rendszerfejlesztes\hotelgurujavitott\hotelguru2\HotelGuru.Services\bin\Debug\net8.0\appsettings.Development.json
+C:\Hotelguru Rendszerfejlesztes\hotelgurujavitott\hotelguru2\HotelGuru.Services\bin\Debug\net8.0\appsettings.json
+C:\Hotelguru Rendszerfejlesztes\hotelgurujavitott\hotelguru2\HotelGuru.Services\bin\Debug\net8.0\HotelGuru.Services.deps.json
+C:\Hotelguru Rendszerfejlesztes\hotelgurujavitott\hotelguru2\HotelGuru.Services\bin\Debug\net8.0\HotelGuru.Services.runtimeconfig.json
+C:\Hotelguru Rendszerfejlesztes\hotelgurujavitott\hotelguru2\HotelGuru.Services\bin\Debug\net8.0\HotelGuru.Services.dll
+C:\Hotelguru Rendszerfejlesztes\hotelgurujavitott\hotelguru2\HotelGuru.Services\bin\Debug\net8.0\HotelGuru.Services.pdb
+C:\Hotelguru Rendszerfejlesztes\hotelgurujavitott\hotelguru2\HotelGuru.Services\bin\Debug\net8.0\HotelGuru.DataContext.dll
+C:\Hotelguru Rendszerfejlesztes\hotelgurujavitott\hotelguru2\HotelGuru.Services\bin\Debug\net8.0\HotelGuru.DataContext.pdb
+C:\Hotelguru Rendszerfejlesztes\hotelgurujavitott\hotelguru2\HotelGuru.Services\obj\Debug\net8.0\HotelGuru.Services.csproj.AssemblyReference.cache
+C:\Hotelguru Rendszerfejlesztes\hotelgurujavitott\hotelguru2\HotelGuru.Services\obj\Debug\net8.0\HotelGuru.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hotelguru Rendszerfejlesztes\hotelgurujavitott\hotelguru2\HotelGuru.Services\obj\Debug\net8.0\HotelGuru.Services.AssemblyInfoInputs.cache
+C:\Hotelguru Rendszerfejlesztes\hotelgurujavitott\hotelguru2\HotelGuru.Services\obj\Debug\net8.0\HotelGuru.Services.AssemblyInfo.cs
+C:\Hotelguru Rendszerfejlesztes\hotelgurujavitott\hotelguru2\HotelGuru.Services\obj\Debug\net8.0\HotelGuru.Services.csproj.CoreCompileInputs.cache
+C:\Hotelguru Rendszerfejlesztes\hotelgurujavitott\hotelguru2\HotelGuru.Services\obj\Debug\net8.0\HotelGuru.Services.sourcelink.json
+C:\Hotelguru Rendszerfejlesztes\hotelgurujavitott\hotelguru2\HotelGuru.Services\obj\Debug\net8.0\HotelGur.7C47C761.Up2Date
+C:\Hotelguru Rendszerfejlesztes\hotelgurujavitott\hotelguru2\HotelGuru.Services\obj\Debug\net8.0\HotelGuru.Services.dll
+C:\Hotelguru Rendszerfejlesztes\hotelgurujavitott\hotelguru2\HotelGuru.Services\obj\Debug\net8.0\refint\HotelGuru.Services.dll
+C:\Hotelguru Rendszerfejlesztes\hotelgurujavitott\hotelguru2\HotelGuru.Services\obj\Debug\net8.0\HotelGuru.Services.pdb
+C:\Hotelguru Rendszerfejlesztes\hotelgurujavitott\hotelguru2\HotelGuru.Services\obj\Debug\net8.0\HotelGuru.Services.genruntimeconfig.cache
+C:\Hotelguru Rendszerfejlesztes\hotelgurujavitott\hotelguru2\HotelGuru.Services\obj\Debug\net8.0\ref\HotelGuru.Services.dll

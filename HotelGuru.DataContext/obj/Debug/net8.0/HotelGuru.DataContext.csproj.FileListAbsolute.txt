@@ -49,3 +49,20 @@ C:\Users\Dávid\Documents\hotelguru2\HotelGuru.DataContext\obj\Debug\net8.0\refi
 C:\Users\Dávid\Documents\hotelguru2\HotelGuru.DataContext\obj\Debug\net8.0\HotelGuru.DataContext.pdb
 C:\Users\Dávid\Documents\hotelguru2\HotelGuru.DataContext\obj\Debug\net8.0\HotelGuru.DataContext.genruntimeconfig.cache
 C:\Users\Dávid\Documents\hotelguru2\HotelGuru.DataContext\obj\Debug\net8.0\ref\HotelGuru.DataContext.dll
+C:\Hotelguru Rendszerfejlesztes\hotelgurujavitott\hotelguru2\HotelGuru.DataContext\bin\Debug\net8.0\appsettings.Development.json
+C:\Hotelguru Rendszerfejlesztes\hotelgurujavitott\hotelguru2\HotelGuru.DataContext\bin\Debug\net8.0\appsettings.json
+C:\Hotelguru Rendszerfejlesztes\hotelgurujavitott\hotelguru2\HotelGuru.DataContext\bin\Debug\net8.0\HotelGuru.DataContext.deps.json
+C:\Hotelguru Rendszerfejlesztes\hotelgurujavitott\hotelguru2\HotelGuru.DataContext\bin\Debug\net8.0\HotelGuru.DataContext.runtimeconfig.json
+C:\Hotelguru Rendszerfejlesztes\hotelgurujavitott\hotelguru2\HotelGuru.DataContext\bin\Debug\net8.0\HotelGuru.DataContext.dll
+C:\Hotelguru Rendszerfejlesztes\hotelgurujavitott\hotelguru2\HotelGuru.DataContext\bin\Debug\net8.0\HotelGuru.DataContext.pdb
+C:\Hotelguru Rendszerfejlesztes\hotelgurujavitott\hotelguru2\HotelGuru.DataContext\obj\Debug\net8.0\HotelGuru.DataContext.csproj.AssemblyReference.cache
+C:\Hotelguru Rendszerfejlesztes\hotelgurujavitott\hotelguru2\HotelGuru.DataContext\obj\Debug\net8.0\HotelGuru.DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Hotelguru Rendszerfejlesztes\hotelgurujavitott\hotelguru2\HotelGuru.DataContext\obj\Debug\net8.0\HotelGuru.DataContext.AssemblyInfoInputs.cache
+C:\Hotelguru Rendszerfejlesztes\hotelgurujavitott\hotelguru2\HotelGuru.DataContext\obj\Debug\net8.0\HotelGuru.DataContext.AssemblyInfo.cs
+C:\Hotelguru Rendszerfejlesztes\hotelgurujavitott\hotelguru2\HotelGuru.DataContext\obj\Debug\net8.0\HotelGuru.DataContext.csproj.CoreCompileInputs.cache
+C:\Hotelguru Rendszerfejlesztes\hotelgurujavitott\hotelguru2\HotelGuru.DataContext\obj\Debug\net8.0\HotelGuru.DataContext.sourcelink.json
+C:\Hotelguru Rendszerfejlesztes\hotelgurujavitott\hotelguru2\HotelGuru.DataContext\obj\Debug\net8.0\HotelGuru.DataContext.dll
+C:\Hotelguru Rendszerfejlesztes\hotelgurujavitott\hotelguru2\HotelGuru.DataContext\obj\Debug\net8.0\refint\HotelGuru.DataContext.dll
+C:\Hotelguru Rendszerfejlesztes\hotelgurujavitott\hotelguru2\HotelGuru.DataContext\obj\Debug\net8.0\HotelGuru.DataContext.pdb
+C:\Hotelguru Rendszerfejlesztes\hotelgurujavitott\hotelguru2\HotelGuru.DataContext\obj\Debug\net8.0\HotelGuru.DataContext.genruntimeconfig.cache
+C:\Hotelguru Rendszerfejlesztes\hotelgurujavitott\hotelguru2\HotelGuru.DataContext\obj\Debug\net8.0\ref\HotelGuru.DataContext.dll
