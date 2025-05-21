@@ -1267,10 +1267,7 @@
           "Swashbuckle.AspNetCore": "7.3.2"
         },
         "runtime": {
-          "HotelGuru.DataContext.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "HotelGuru.DataContext.dll": {}
         }
       }
     }
