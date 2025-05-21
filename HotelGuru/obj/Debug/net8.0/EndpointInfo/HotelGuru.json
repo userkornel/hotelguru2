@@ -40,7 +40,38 @@
         }
       }
     },
-    "/api/Auth/bejelentkezes": {
+    "/api/Auth/register": {
+      "post": {
+        "tags": [
+          "Auth"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RegisztracioDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/RegisztracioDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/RegisztracioDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Auth/login": {
       "post": {
         "tags": [
           "Auth"
@@ -545,6 +576,24 @@
           "ar": {
             "type": "number",
             "format": "double"
+          }
+        },
+        "additionalProperties": false
+      },
+      "RegisztracioDto": {
+        "type": "object",
+        "properties": {
+          "felhasznaloNev": {
+            "type": "string",
+            "nullable": true
+          },
+          "jelszo": {
+            "type": "string",
+            "nullable": true
+          },
+          "teljesNev": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false

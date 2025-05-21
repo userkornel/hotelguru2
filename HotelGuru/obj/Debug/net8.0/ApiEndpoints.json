@@ -27,8 +27,8 @@
   },
   {
     "ContainingType": "HotelGuru.Controllers.AuthController",
-    "Method": "Bejelentkezes",
-    "RelativePath": "api/Auth/bejelentkezes",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -36,6 +36,22 @@
       {
         "Name": "dto",
         "Type": "HotelGuru.Models.BejelentkezesDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HotelGuru.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/Auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "HotelGuru.Models.RegisztracioDto",
         "IsRequired": true
       }
     ],

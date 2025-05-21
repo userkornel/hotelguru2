@@ -17,6 +17,7 @@ namespace HotelGuru.DataContext.Context
         public DbSet<Szoba> Szobak { get; set; }
         public DbSet<Foglalas> Foglalasok { get; set; }
         public DbSet<PluszSzolgaltatas> PluszSzolgaltatasok { get; set; }
+        public DbSet<Felhasznalo> Felhasznalok { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -44,6 +45,11 @@ namespace HotelGuru.DataContext.Context
             modelBuilder.Entity<Vendeg>()
                 .HasIndex(v => v.Email)
                 .IsUnique();
+            modelBuilder.Entity<PluszSzolgaltatas>(entity =>
+            {
+                entity.Property(e => e.Ar)
+                      .HasPrecision(18, 2);  // vagy HasColumnType("decimal(18,2)")
+            });
 
             // További konfigurációk szükség szerint
         }
